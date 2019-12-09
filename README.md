@@ -50,6 +50,20 @@ wp-content/plugins/wp-ups-easytracking
 
 4) Access your Wordpress Admin area and activate the plugin from the path "Plugins > Installed Plugins"
 
+### How to use
+
+After the installation and activation of the plugin, you have to set up your credentials and call the form in the page you want.
+
+1) From Wordpress admin area go to "Setting > UPS Easy Tracking";
+
+2) Add your UPS credentials;
+
+3) Add the shortcode below in any page or post to show the tracking form;
+
+```
+[wpups]
+```
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [PHP](https://www.php.net/) - Programming language
